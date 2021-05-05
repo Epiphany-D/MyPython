@@ -1,0 +1,13 @@
+{
+  "python.pythonPath": "D:\\Anaconda3-2020.07\\python.exe",
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/*.code-workspace": true,
+    "**/CVS": true
+  },
+  "editor.formatOnType": false, // 输入时就进行格式化，默认触发字符较少，分号可以触发
+  "editor.hover.delay": 0
+}
